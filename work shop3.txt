@@ -1,0 +1,25 @@
+1-Déterminer la capacité totale des 3 mémoires.
+ 2^k x n =>  (2^13 x 8) * 3 = 196608 Octets= 192 Ko
+               65536 
+
+2-Combien y a t-il de lignes mémoire adressables par le microprocesseur :13
+
+3-Quelle relation entre le nombre ligne adressable et la capacité indiquée sur une mémoire:2^k x n
+
+4-Avec les 3 bits A13, A14, A15, quel est le nombre maximal des boîtiers mémoire qui peuvent être associés au microprocesseur:3
+
+5-à un instant t bien déterminé, combien de boîtiers mémoire peut communiquer avec le microprocesseur.
+
+
+6-
+A11	A12	A13	MEMOIRE1	MEMOIRE2	MEMOIRE3
+1	0	0	ACTIVE	        INACTIVE	INACTIVE
+0	1	0	INACTIVE	ACTIVE	        INACTIVE
+0	0	1	INACTIVE        INACTIVE	ACTIVE
+
+
+
+7 -Nous voulons augmenter la capacité de la mémoire totale à 64Ko:
+Combien de mémoires de 8Ko sont à ajouter
+Est ce que l’architecture actuelle est capable de gérer l’ensemble des mémoires. Si non proposer une solution.
+
